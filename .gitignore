@@ -1,0 +1,16 @@
+# ignore production folder
+_site/
+vendor/
+
+# ignore caches
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+# ignore config
+.vscode/
+.idea/
+.bundle/
+
+# ignore logfiles
+*.log
